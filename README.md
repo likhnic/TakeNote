@@ -1,3 +1,5 @@
+This is a Note taking app, which stores your notes in a Database, So no fear of them getting deleted!!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
